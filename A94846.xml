@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryall, of L. Col. Iohn Lilburn at the Sessions House in the Old-Baily, on Fryday, and Saturday, being the 19th and 20th of this instant August. With Lieutenant Collonel Iohn Lilburns speech to the jury before they went together to agree upon their verdict, and the reply of the counsel of the common-wealth thereunto. Together, with the verdict of not guilty brought in by the said jury.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94846</idno>
+            <idno type="STC">Wing T2195</idno>
+            <idno type="STC">Thomason E711_9</idno>
+            <idno type="STC">ESTC R207123</idno>
+            <idno type="EEBO-CITATION">99866194</idno>
+            <idno type="PROQUEST">99866194</idno>
+            <idno type="VID">166673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166673)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E711[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryall, of L. Col. Iohn Lilburn at the Sessions House in the Old-Baily, on Fryday, and Saturday, being the 19th and 20th of this instant August. With Lieutenant Collonel Iohn Lilburns speech to the jury before they went together to agree upon their verdict, and the reply of the counsel of the common-wealth thereunto. Together, with the verdict of not guilty brought in by the said jury.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166673:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <p>THE TRYALL OF L. Col. Iohn Lilburn <hi>AT</hi> The Seſſions Houſe in the <hi>Old-Baily,</hi> on Fryday, and Saturday, being the 19th and 20th of this inſtant AUGUST.</p>
+            <p>
+               <hi>WITH</hi> Lieutenant Collonel <hi>Iohn Lilburns</hi> Speech to the Jury before they went together to agree upon their Ver<g ref="char:EOLhyphen"/>dict, and the Reply of the Counſel of the Common-wealth thereunto.</p>
+            <p>TOGETHER, With the Verdict of <hi>NOT GVILTY</hi> brought in by the ſaid Jury.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. B.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:166673:2"/>
+            <!-- PDF PAGE 33 -->
+            <pb n="1" facs="tcp:166673:2"/>
+            <!-- PDF PAGE 33 -->
+            <head>The laſt TRYALL OF Lieutenant Collonel Iohn Lilburn.
+At the Seſſions Houſe in the Old-Baily, on <date>Fryday and Saturday, being the 19 and 20 of this inſtant Auguſt.</date>
+            </head>
+            <p>FRiday the 19 of <hi>Auguſt,</hi> Lievt. Col. <hi>Iohn Lilburn</hi> appeared again at the Seſſions in the Old-Bayly, where my Lord Mayor, Mr. Recorder, and the reſt of the Bench being ſet, and Proclamation made, a Mem<g ref="char:EOLhyphen"/>her of the Court began to ſpeak, ſaying.</p>
+            <sp>
+               <p>Mr. Lilburn, we are now met again about this buſi<g ref="char:EOLhyphen"/>neſſe which hath been ſo long and tedious, and intending that this ſhall be the laſt day, deſire to hear what you will ſay to the indictment, <hi>Guilty or not Guilty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>May it pleaſe your Lordſhip and this Honou<g ref="char:EOLhyphen"/>rable Bench I have adviſed with my Councel, and have formerly brought in my Exceptions.</p>
+               <pb n="2" facs="tcp:166673:3"/>
+               <!-- PDF PAGE 34 -->
+               <p n="1">1 Shewing the unlawfulneſs of that Act of Parliament.</p>
+               <p n="2">2 That Mr. Primat named in the Act was the principal and yet was not proſecuted.</p>
+               <p n="3">3 That the Act runs <hi>Lievt. Col. Iohn Lilburn, the indict<g ref="char:EOLhyphen"/>ment runs Iohn Lilburn Gent.</hi>
+               </p>
+               <p>My Lord, I have ever been an honourer of the Law e<g ref="char:EOLhyphen"/>ver ſince I knew what Law was, and I have ſpent a great deal of pains and ſtudy in the Law to find out every tittle thereof, and I find the ancient Laws of this Land to be very juſt and mercifull, and if I were ſure to be tried by the equity and legallity of the Law, I cared not whether I had an hour to live or not, and if I could have but one argument of Law for my life, I would willingly ſubmit, but I cannot find one Line of Law concerning me in all this Act and Indictment.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Recorder.</speaker>
+               <p>Mr. Lilburn here is no man deſires to take away your Life without the juſt grounds of Law, <hi>&amp;c.</hi> There hath been a great deal of time ſpent Mr. Lil<g ref="char:EOLhyphen"/>burn in this buſineſſe, and if we had not been tender of your life, we ſhould not have ſpent ſo much time about it, therefore Mr. Lilburn this being the day that we have ſet apart for this buſineſs, we deſire you to plead to the in<g ref="char:EOLhyphen"/>dictment, <hi>Guilty or not guilty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Mr. Recorder, I was never convicted of any crime, and therefore I think by the Law I am not to an<g ref="char:EOLhyphen"/>ſwer to this indictment, I was never any Felon, or ever committed any felony, I have never robbed any one, or raviſhed any woman, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Recorder.</speaker>
+               <p>That is not the thing you are tried for Mr. Lilburn, but you are to anſwer to the Act of Par<g ref="char:EOLhyphen"/>liament.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>May it pleaſe you my Lord, and this honour<g ref="char:EOLhyphen"/>able Bench I have brought in my Exceptions concerning the Act, and pleaded them before you,</p>
+               <pb n="3" facs="tcp:166673:3"/>
+               <!-- PDF PAGE 34 -->
+               <p>The Court replied, Theſe are the ſame you brought in before, you plead this onely to delay time.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>My Lord, I beſeech you let them be peruſed and entred upon record, my Lord I have read over the copy of thoſe pieces of paper which was produced a<g ref="char:EOLhyphen"/>gainſt me, and theſe are the objections which I put in a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Recorder.</speaker>
+               <p>Mr. Lilburn if you will not plead to the indictment we muſt proceed according to Law.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>I beſeech you my Lord let me hear the indict<g ref="char:EOLhyphen"/>ment read.</p>
+            </sp>
+            <p>Then the indictment was read.</p>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>My Lord this indictment hath not every par<g ref="char:EOLhyphen"/>ticular of the Act, but ſome part is left out, <hi>&amp;c.</hi> whereas that which is to try a man for his life ought to have eve<g ref="char:EOLhyphen"/>ry particular clauſe of the Act upon which the party is to be tried, if you proceed to matter of life.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Recorder.</speaker>
+               <p>Mr. Lilburn will you be tried by a Ju<g ref="char:EOLhyphen"/>ry or not, if not, we muſt proceed otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Mr. Recorder, I have not much more to ſay, for I have done what I can in defence of my life by Law, and I ſhall deſire this honourable Bench to give me li<g ref="char:EOLhyphen"/>berty till to morrow either in the forenoon or afternoon (which this honourable Bench pleaſeth, that I may ſolace my ſelf with my God and deliver up my ſpirit unto him and my life into the hands of the Jury, and they that ſhall take away my life without Law, my bloud will be re<g ref="char:EOLhyphen"/>quired at their hands.</p>
+               <p>My Lord and this honourable Bench, I beſeech you my Lord, if it may not be granted that I may have Oyer of the judgement, that I may have Oyer of the Act, my Lord and Gent. all you have lives and far greater eſtates then I have to loſe, I pray God it may never be your own caſes.</p>
+            </sp>
+            <pb n="4" facs="tcp:166673:4"/>
+            <!-- PDF PAGE 35 -->
+            <p>Then Proclamation was made that the Jury ſhould ap<g ref="char:EOLhyphen"/>pear again to morrow about ten of the clock to go upon the tryal of Mr. Lilburn, <hi>&amp;c.</hi>
+            </p>
+            <p>Saturday about twelve of the clock the Court fare a<g ref="char:EOLhyphen"/>gain, and when Mr. Lilburn firſt came to the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, be brief<g ref="char:EOLhyphen"/>ly inſiſted upon divers things which he had in part urged the day before, ſhewing that there was no reaſon rendred in the Act why Lievt. Col. John Lilburn ſhould be hang<g ref="char:EOLhyphen"/>ed, ſaying that the Law was grounded upon reaſon, and where there was no reaſon there was no Law, <hi>&amp;c.</hi>
+            </p>
+            <p>After this a Jury was impannelled to paſſe upon him, he excepting not againſt above one or two of all that were called.</p>
+            <p>Then Mr. <hi>Lilburn</hi> began and made a Speech and Orati<g ref="char:EOLhyphen"/>on for ſeveral hours, and therefore you muſt not expect to have every particular inſerted within the narrow com<g ref="char:EOLhyphen"/>paſſe of one ſheet, yet in regard the tryal hath been ſo re<g ref="char:EOLhyphen"/>markable that every one thirſteth to know what was ſaid, and what was afterwards the reſult of all; I ſhall in this place communicate unto you the ſum of what Mr. Lil<g ref="char:EOLhyphen"/>burn now ſaid,</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <head>The ſubstance of Lievt. Col. <hi>John Lilburns</hi> Speech and Ora<g ref="char:EOLhyphen"/>tion to the honourable Bench, and the Iury, on Saturday the <hi>20</hi> of August, <hi>1653.</hi>
+                  </head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>THe Act is <hi>Lievt. Col. Iohn Lilburn,</hi> and the indict<g ref="char:EOLhyphen"/>ment is <hi>Iohn Lilburn</hi> Gent. and if that I that ſtand now at the Bar be the ſame perſon intended in the Act, then ſhould the indictment agree with the very words of the Act, otherwiſe it is a good Exception in the eie of the Law, for if a man be indicted or ſued by the title of a Knight onely, and he is a Knight and Baronet, it hath been
+<pb n="5" facs="tcp:166673:4"/>
+                     <!-- PDF PAGE 35 -->allowed for a good exception. Again my Lord by the Law, a man cannot be adjudged, <hi>&amp;c.</hi> but he ought to be firſt ſummoned in and convicted of the crime, but I com<g ref="char:EOLhyphen"/>mitted not any crime neither was ſummoned in or con<g ref="char:EOLhyphen"/>vented before the Parliament that made this Act againſt Lievt. Col. <hi>Iohn Lilburn;</hi> and the very ſame day that this Act paſt in the houſe, I was at Dover, and was never ju<g ref="char:EOLhyphen"/>dicially ſerved with the ſaid act (as I ought to have been) neither in England, Holland, or Flanders; therefore I went not out of England becauſe of the Act, but as a freeborn Engliſh man, that might lawfully travell to any place a<g ref="char:EOLhyphen"/>bout his occaſions. In the 19 chap. of Magna Charta <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t is ſaid that no man ſhal be arreſted, impriſoned, <hi>&amp;c.</hi> but the caule ſhal be ſhewed, and 16 <hi>E.</hi> 3. ſets the bounds of the Law, &amp; whatſoever is otherwiſe ought not to be accoun<g ref="char:EOLhyphen"/>ted law. My Lord Magna Charta hath been confirmed by all the Parliaments of England ever ſince, and when the breach of priviledge was made upon the 5 Members, the Parliament declared it to be againſt Magna Charta, and the Petition of Right, and if it were but 6 of the clock in the morning, I could till 10 of the clock at night hold it forth by Law that the Act, the Indictment, and all againſt me is inſufficient. That Statute of <hi>E.</hi> 3. ſaith, that the whole matter of crime ought to be inquired after, now where is my crime? what hath John Lilburn done that he ſhould be hanged? therefore you Gent. of the Jury, take heed how you take away the life of John Lilburn becauſe it was Reſolved or Enacted ſo; you know that Herod Reſolved that all the male children ſhould be deſtroyed, but the good Midwives Reſolved to preſerve them, and God bleſ<g ref="char:EOLhyphen"/>ſed the Midwives, I ſay God bleſſed the good Midwives for it; I hope you worthy Gent. will be as the good Mid<g ref="char:EOLhyphen"/>wives to me, &amp; though it was Reſolved that I ſhould die, yet you will Reſolve that I ſhal live, and God will proſ<g ref="char:EOLhyphen"/>per
+<pb n="6" facs="tcp:166673:5"/>
+                     <!-- PDF PAGE 36 -->you therefore; you are the men which at this time have my life in your hands, if you ſay John Lilburn ſhall die, I muſt die, if you ſay John Lilburn ſhall live, I ſhall live, O take heed that you have not the bloud of John Lil<g ref="char:EOLhyphen"/>burn to anſwer for when you ſhall appear (and crave for mercy your ſelves) before the great Tribunal, leſt then it ſhal be ſaid, you ſhewed no mercy to John Lilburn, and what mercy do you now think to find for your ſelves, <hi>&amp;c.</hi> I pray God that his holy ſpirit may go along with you and guide you <hi>Amen, Amen.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>After this the Counſel for the Common-wealth ſpake very full to ſhew (as it had been proved) that the Act was formally ingroſſed in Parchment, and made by a lawfull power.</p>
+            <p>Then the Jury went together, and although it were very late, brought in their verdict upon the indictment, <hi>Not guilty of any Crime worthy of death.</hi>
+            </p>
+            <p>Mr. Lilburn then pleaded for his preſent inlargement, but in regard he was apprehended at firſt by warrant from above, he cannot be diſcharged but by the ſame au<g ref="char:EOLhyphen"/>thority.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
